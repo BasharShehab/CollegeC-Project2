@@ -1,6 +1,6 @@
 # CollegeC-Project2
 
-this simple C++ program does the following : 
+this simple C++ code does the following : 
 
     a DecToBin function that converts a number from Decimal to Binary
     a leap_year function that checks whether a year that a user enters is leap or not.
