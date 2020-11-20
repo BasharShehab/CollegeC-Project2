@@ -1,5 +1,4 @@
 # CollegeC-Project2
-File #2 of C++ project from my first semester in ASPU
 
 this simple C++ program does the following : 
 
@@ -7,4 +6,4 @@ this simple C++ program does the following :
     a leap_year function that checks whether a year that a user enters is leap or not.
     a Palindrome function that checks whether a number that a user enters is a palindrome number or not.
     
-    that is all. 
+that is all. Enjoy :p
